@@ -1,4 +1,3 @@
 print('ABOBAAAA')
-print('enter your name:')
-name = input()
-print('Hello', name)
+name = input('введи свое погоняло ссыкундя : ')
+print('Hello', name, 'name')
